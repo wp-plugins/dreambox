@@ -1,0 +1,43 @@
+=== DreamBox ===
+Contributors: Vivek Singh
+Donate link: 
+Tags: dreambox, alert box, notification
+Requires at least: 3.3
+Tested up to: 3.5.1
+Stable tag: DreamBox,Box, alert box, notification
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+DreamBox makes Your Post Elegant and Effective Since it Give to Create Alert Box, Note box, download box and many other boxes
+
+== Description ==
+
+DreamBox makes Your Post Elegant and Effective Since it Give to Create Alert Box, Note box, download box and many other boxes
+
+== Installation ==
+
+1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+
+== Frequently asked questions ==
+
+= A question that someone might have =
+
+An answer to that question.
+
+== Screenshots ==
+
+1. 
+2. 
+
+== Changelog ==
+
+
+
+== Upgrade notice ==
+
+
+
+== Arbitrary section 1 ==
+
