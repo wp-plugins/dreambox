@@ -1,6 +1,7 @@
 === DreamBox ===
 Contributors: Vivek Singh
 Donate link: 
+Version:1.1
 Tags: dreambox, alert box, notification
 Requires at least: 3.3
 Tested up to: 3.5.1
@@ -16,9 +17,18 @@ DreamBox makes Your Post Elegant and Effective Since it Give to Create Alert Box
 
 == Installation ==
 
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Place `<?php do_action('plugin_name_hook'); ?>` in your templates
+1. Upload DreamBox to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. When You think You want to add Any Code Just Implement Below Code
+<p class="note">Note</p>
+<p class="tips">Tips</p>
+<p class="download">Download</p>
+<p class="important">Important</p>
+<p class="mac">Mac</p>
+<p class="linux">Linux</p>
+<p class="windows">Windows</p>
+<p class="help">Help</p>
+<p class="alert">Alert</p>
 
 == Frequently asked questions ==
 
