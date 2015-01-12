@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Dream Box
-Plugin URI: http://www.dreamwebsite.asia
+Plugin URI: http://www.engineersfunda.com
 Description: Make nice notes, alerts,downloads, important and many more icon with Dream Box in your post.
 Version: 1.1
 Author: Vivek Singh
@@ -27,7 +27,7 @@ function deactive_dreambox(){
 
 add_action('wp_head', 'dreambox');
 function dreambox_footer() {
-    echo 'Powered By <a href="http://www.dreamwebsite.asia">Dreawebsite |Vivek Singh Blog</a>';
+    echo '<center>Powered By <a href="http://www.engineersfunda.com">Engineers Funda</a></center>';
 }
 add_action('wp_footer', 'dreambox_footer', 100);
 
