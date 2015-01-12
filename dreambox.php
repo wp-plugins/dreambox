@@ -3,9 +3,9 @@
 Plugin Name: Dream Box
 Plugin URI: http://www.engineersfunda.com
 Description: Make nice notes, alerts,downloads, important and many more icon with Dream Box in your post.
-Version: 1.1
+Version: 2.0
 Author: Vivek Singh
-Author URI: http://www.dreamwebsite.asia
+Author URI: http://www.engineersfunda.com
 */
 
 function dreambox(){
